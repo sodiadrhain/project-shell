@@ -2,4 +2,6 @@
 
 ### Social Messenger App
 
-### Frontend built with React.
+This is the frontend.
+
+Built with React.
