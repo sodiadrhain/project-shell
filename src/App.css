@@ -1,0 +1,16 @@
+body {
+    color: #fff;
+    background-color: #3f0e40;
+    font-weight: bold;
+}
+
+.main {
+    text-align: center;
+    font-size: -webkit-xxx-large;
+}
+
+p {
+    animation-timing-function: ease-in;
+    animation-play-state: running;
+    animation-iteration-count: infinite;
+}
